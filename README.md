@@ -4,6 +4,7 @@
 The purpose of this project is to create a webpage for the client Dana.
 Dana had data on UFO Sightings and wanted her website to allow users to search for sightings matching specific criteria.
 For example, a user may be interested in all data regarding their state.
+Specifically, Dana wanted users to be able to search for City, State, Country, Shape, and Date.
 ## Results 
 By default the page shows all UFO sightings in chronological order. 
 Users can put specific search criteria into the respective search areas text boxes.
